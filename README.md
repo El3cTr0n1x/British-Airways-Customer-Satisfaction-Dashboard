@@ -2,6 +2,8 @@
 
 This repository contains the code and resources used to create an interactive dashboard analyzing British Airways customer satisfaction.
 
+Link to the dashboard: https://public.tableau.com/views/BritishAirwaysReviewAnalysis_17099944735610/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
 Project Goal:
 
 Develop a comprehensive dashboard using Tableau to understand customer sentiment towards British Airways, identify areas for improvement, and enhance the overall passenger experience.
